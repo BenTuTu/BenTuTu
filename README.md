@@ -40,5 +40,5 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 </a>
 
 <a href="https://github.com/BenTuTu/BenTuTu.github.io">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BenTuTu&repo=BenTuTu.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
