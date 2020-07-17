@@ -1,13 +1,13 @@
 ### Hi there, I'm [Jenifer!](https://BenTuTu.github.io) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://github.com/BenTuTu/BenTuTu.github.io">
+  <img align="left" alt="" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="http://39.107.111.180/">
+  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
@@ -15,10 +15,10 @@
 
 Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🔭 I’m currently working on Datagrand [Datagrand](http://www.datagrand.com/)
+- 🌱 I’m currently learning Python & Flutter
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/BenTuTu/BenTuTu.github.io)
+- 💬 Ask me about anything [here](http://39.107.111.180/)
 
 **Languages and Tools:**  
 
