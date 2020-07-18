@@ -13,8 +13,6 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
-
 - 🔭 I’m currently working on Datagrand [Datagrand](http://www.datagrand.com/)
 - 🌱 I’m currently learning Python & Flutter
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/BenTuTu/BenTuTu.github.io)
