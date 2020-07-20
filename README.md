@@ -31,7 +31,7 @@
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-[![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=BenTuTu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![BenTuTu github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=BenTuTu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/BenTuTu/BenTuTu.github.io)
 
 <a href="https://github.com/BenTuTu/practice-react-hooks">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BenTuTu&repo=practice-react-hooks&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
