@@ -13,7 +13,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on Datagrand [Datagrand](http://www.datagrand.com/)
+- 🔭 I’m currently working on PinDuoDuo [Pin](https://m.pinduoduo.com/)
 - 🌱 I’m currently learning Python & Flutter
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/BenTuTu/BenTuTu.github.io)
 - 💬 Ask me about anything [here](http://39.107.111.180/)
