@@ -14,7 +14,7 @@
 <br />
 
 - 🔭 I’m currently working on PinDuoDuo [Pin](https://m.pinduoduo.com/)
-- 🌱 I’m currently learning Expo
+- 🌱 I’m currently learning Expo、Rust
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/BenTuTu/BenTuTu.github.io)
 - 💬 Ask me about anything [here](http://39.107.111.180/)
 
@@ -38,4 +38,8 @@
 
 <a href="https://github.com/BenTuTu/BenTuTu.github.io">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BenTuTu&repo=BenTuTu.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/BenTuTu/dayday-learning">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BenTuTu&repo=dayday-learning&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
